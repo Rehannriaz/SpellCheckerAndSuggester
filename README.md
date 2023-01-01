@@ -7,7 +7,7 @@ Ghulam Ishaq Khan Institute of Engineering Sciences & Technology, Topi, Swabi 23
 
 
 # Spell Checker in C++
-Members:
+### Members:
 •	2021438 (Muhammad Rehan)
 •	2021051 (Adeen Amir)
 •	2021355 (Muhammad Arsal)
