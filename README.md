@@ -8,9 +8,9 @@ Ghulam Ishaq Khan Institute of Engineering Sciences & Technology, Topi, Swabi 23
 
 # Spell Checker in C++
 ### Members:
-•	2021438 (Muhammad Rehan)
-•	2021051 (Adeen Amir)
-•	2021355 (Muhammad Arsal)
+	2021438 (Muhammad Rehan)
+	2021051 (Adeen Amir)
+  2021355 (Muhammad Arsal)
 
 ## Brief:
 Implement a spell checker using a hash table and a trie. The hash table can be used to store the dictionary of words, while the trie can be used to efficiently search for words and suggest corrections for misspelled words.
